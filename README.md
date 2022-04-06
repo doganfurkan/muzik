@@ -1,4 +1,4 @@
 # muzik
 patika.dev eğitimi
 
-[Siteye Git](doganfurkan.github.io/muzik)
+[Siteye Git](https://doganfurkan.github.io/muzik)
